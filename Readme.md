@@ -2,6 +2,10 @@
 
 Conversor de Moedas é um aplicativo mobile desenvolvido em React Native com Expo, que permite converter valores entre diferentes moedas utilizando taxas de câmbio em tempo real.
 
+## Preview
+
+![Preview do App](assets/screenshott.png)
+
 ## Funcionalidades
 
 - Seleção de moeda de origem e destino
@@ -98,10 +102,3 @@ Conversor de Moedas é um aplicativo mobile desenvolvido em React Native com Exp
 - As cores e estilos podem ser alterados em [`src/styles/colors.js`](src/styles/colors.js) e [`App.styles.js`](App.styles.js).
 - As moedas disponíveis estão em [`src/constants/currencies.js`](src/constants/currencies.js).
 
-## Licença
-
-Este projeto está sob a licença MIT.
-
----
-
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario)
